@@ -8,6 +8,7 @@ This project includes:
 - 🔢 Number Guessing Game  
 - ✂️ Rock-Paper-Scissors  
 - 🧮 Calculator with History Tracking  
+- 🎯 Password Guessing Game 
 
 All games run in the terminal/console and require only Python to play. Great for beginners!
 
